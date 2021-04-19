@@ -1,0 +1,10 @@
+E:\KK3\kalkulatorrr\kalkulatorrr\bin\Debug\kalkulatorrr.exe.config
+E:\KK3\kalkulatorrr\kalkulatorrr\bin\Debug\kalkulatorrr.exe
+E:\KK3\kalkulatorrr\kalkulatorrr\bin\Debug\kalkulatorrr.pdb
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.csprojAssemblyReference.cache
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.Form1.resources
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.Properties.Resources.resources
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.csproj.GenerateResource.cache
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.csproj.CoreCompileInputs.cache
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.exe
+E:\KK3\kalkulatorrr\kalkulatorrr\obj\Debug\kalkulatorrr.pdb
